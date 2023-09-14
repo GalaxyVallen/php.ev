@@ -8,6 +8,9 @@
     { "src": "/(.*)",  "dest": "/api/index.php" }
   ],
   "redirects": [
-    { "source": "/sec", "destination": "api/sec.php", "permanent": true }
+    { 
+      "source": "/me", 
+      "destination": "https://github.com/GalaxyVallen/php.ev/"
+    }
   ]
 }
